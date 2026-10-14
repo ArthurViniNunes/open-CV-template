@@ -29,13 +29,6 @@ Everything is implemented in a single `index.html` file, making it easy to edit,
 
 ---
 
-## 🌍 Live Demo
-
-🔗 Online example:  
-👉 https://apenasumsonhador.github.io/Curriculum-Vitae/
-
----
-
 ## 🔁 How to Use This Template
 
 ### 1️⃣ Fork the Repository
